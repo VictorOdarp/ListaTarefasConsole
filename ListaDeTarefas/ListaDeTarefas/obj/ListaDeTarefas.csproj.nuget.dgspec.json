@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victo\\Desktop\\Projetos simples\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj": {}
+    "C:\\Users\\Victo\\Desktop\\Lista Tarefas\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victo\\Desktop\\Projetos simples\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj": {
+    "C:\\Users\\Victo\\Desktop\\Lista Tarefas\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victo\\Desktop\\Projetos simples\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Victo\\Desktop\\Lista Tarefas\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj",
         "projectName": "ListaDeTarefas",
-        "projectPath": "C:\\Users\\Victo\\Desktop\\Projetos simples\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj",
+        "projectPath": "C:\\Users\\Victo\\Desktop\\Lista Tarefas\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas.csproj",
         "packagesPath": "C:\\Users\\Victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victo\\Desktop\\Projetos simples\\ListaDeTarefas\\ListaDeTarefas\\obj\\",
+        "outputPath": "C:\\Users\\Victo\\Desktop\\Lista Tarefas\\ListaDeTarefas\\ListaDeTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

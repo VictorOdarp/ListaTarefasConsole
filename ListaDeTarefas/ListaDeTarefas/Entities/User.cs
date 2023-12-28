@@ -65,7 +65,7 @@ namespace ListaDeTarefas.Entities
             
             }
 
-            Console.WriteLine("Password: ");
+            Console.Write("Password: ");
             string password = Console.ReadLine();
 
             while (!users.Any(x => x.Password == password))

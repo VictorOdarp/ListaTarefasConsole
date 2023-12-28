@@ -12,3 +12,17 @@ C:\Users\Victo\Desktop\Projetos simples\ListaDeTarefas\ListaDeTarefas\obj\Debug\
 C:\Users\Victo\Desktop\Projetos simples\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.pdb
 C:\Users\Victo\Desktop\Projetos simples\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.genruntimeconfig.cache
 C:\Users\Victo\Desktop\Projetos simples\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ref\ListaDeTarefas.dll
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.exe
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.deps.json
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.runtimeconfig.json
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.dll
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.pdb
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.dll
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\refint\ListaDeTarefas.dll
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.pdb
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Lista Tarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net7.0\ref\ListaDeTarefas.dll

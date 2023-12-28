@@ -9,12 +9,14 @@ namespace ListaDeTarefas
         {
             List<User> users = new List<User>();
             User user = new User();
+            Tasks tasks = new Tasks();
+            List<Tasks> listTasks = new List<Tasks>();
 
             Console.WriteLine("Bem vindo a sua Lista de Tarefas!");
             Console.WriteLine();
             Inicio(users, user);
 
-            static void Inicio(List<User> users, User user)
+            void Inicio(List<User> users, User user)
             {
 
                 Console.WriteLine("Escolha uma opção:");
@@ -34,12 +36,48 @@ namespace ListaDeTarefas
                 if (validação == 2)
                 {
                     user.FazerLogin(users);
+                    MenuLista(listTasks, tasks);
+                    
                 }
                 if (validação == 3)
                 {
                     user.ListarUsuários(users);
                     Inicio(users, user);
                 }
+            }
+
+            void MenuLista(List<Tasks> tasks, Tasks task)
+            {
+                Console.WriteLine("1 - Adicionar uma tarefa");
+                Console.WriteLine("2 - Remover uma tarefa");
+                Console.WriteLine("3 - Listar todas as tarefas");
+                Console.WriteLine("4 - Deslogar");
+
+                Console.Write("Digite a sua opção: ");
+                int validação = int.Parse(Console.ReadLine());
+
+                if (validação == 1)
+                {
+                    task.AdicionarTarefa(tasks);
+                    MenuLista(listTasks, task);
+                }
+                if (validação == 2)
+                {
+                    task.RemoverTarefa(tasks);
+                    MenuLista(listTasks, task);
+
+                }
+                if (validação == 3)
+                {
+                    task.ListarTarefas(tasks);
+                    MenuLista(listTasks, task);
+                }
+                if (validação == 3)
+                {
+                    user.ListarUsuários(users);
+                    Inicio(users, user);
+                }
+
             }
 
 
